@@ -1,0 +1,33 @@
+ACME TECHNOLOGIES Q3 2024 EARNINGS CALL TRANSCRIPT
+Date: October 15, 2024
+Participants: CEO John Marshall, CFO Sarah Chen, Analyst Mike Torres (Goldman Sachs), Analyst Priya Patel (Morgan Stanley)
+
+OPERATOR: Good morning and welcome to ACME Technologies third quarter 2024 earnings call. I will now hand over to CEO John Marshall.
+
+JOHN MARSHALL (CEO): Thank you. Good morning everyone and thank you for joining us today. I'm pleased to report that Q3 was a strong quarter for ACME Technologies. Total revenue came in at 847 million dollars, representing 23 percent year over year growth. This was driven primarily by our cloud division which grew 41 percent and now represents 58 percent of total revenue.
+
+We made significant progress on our AI product suite this quarter. Our newly launched AcmeAI platform onboarded 1,200 enterprise customers in just 90 days, which exceeded our internal targets by 35 percent. We are seeing particularly strong adoption in the financial services and healthcare verticals.
+
+However I do want to be transparent about some headwinds. Supply chain disruptions impacted our hardware segment, which declined 12 percent quarter over quarter. We expect this pressure to continue into Q4 but are actively working with alternative suppliers to mitigate the impact.
+
+On the hiring front, we added 340 employees this quarter with a heavy focus on AI and machine learning engineers. We now have over 4,200 employees globally.
+
+SARAH CHEN (CFO): Thank you John. Let me walk you through the financials in more detail. Gross margin improved to 68 percent, up from 63 percent in Q3 2023, reflecting the favorable shift toward higher margin cloud and software revenue.
+
+Operating expenses were 312 million dollars, up 18 percent year over year, driven by increased R&D investment and headcount growth. We are deliberately investing ahead of the curve in AI infrastructure.
+
+Net income was 94 million dollars or 1.12 dollars per diluted share, compared to 71 million dollars or 0.86 dollars per share in the prior year period. Free cash flow was strong at 156 million dollars.
+
+Looking at guidance, we are raising our full year revenue outlook to between 3.2 and 3.3 billion dollars, up from our prior guidance of 3.0 to 3.1 billion dollars. We expect Q4 gross margins to remain in the 67 to 69 percent range.
+
+MIKE TORRES (Goldman Sachs): Thank you Sarah. My question is around the AcmeAI platform. Can you talk about average contract values and whether you are seeing any pricing pressure from competitors like Salesforce and Microsoft?
+
+JOHN MARSHALL (CEO): Great question Mike. Average contract value for AcmeAI is currently sitting at around 85,000 dollars annually for enterprise customers. We have not seen meaningful pricing pressure yet. Our differentiation is around vertical specific models — our healthcare AI has FDA clearance which competitors do not, and that creates a strong moat.
+
+PRIYA PATEL (Morgan Stanley): I wanted to ask about capital allocation. With 156 million in free cash flow, how are you thinking about buybacks versus M&A?
+
+SARAH CHEN (CFO): We are currently evaluating two acquisition targets in the data infrastructure space, both of which would be complementary to our AI platform. We expect to have more to share on this in Q4. On buybacks, we repurchased 45 million dollars of stock this quarter and the board has authorized an additional 200 million dollar repurchase program.
+
+JOHN MARSHALL (CEO): I'll add that our priority is always organic growth first. But we see a window right now where valuations in the data infrastructure space are attractive and we want to be opportunistic.
+
+OPERATOR: That concludes today's earnings call. Thank you for participating.
